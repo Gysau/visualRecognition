@@ -12,6 +12,7 @@
       <list>
         <option value="$PROJECT_DIR$/config/ai-params.json" />
         <option value="$PROJECT_DIR$/src/detect-language.js" />
+        <option value="$PROJECT_DIR$/src/translate.js" />
       </list>
     </option>
   </component>
@@ -33,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608386192443</updated>
-      <workItem from="1608386205662" duration="2062000" />
+      <workItem from="1608386205662" duration="2747000" />
     </task>
     <servers />
   </component>
